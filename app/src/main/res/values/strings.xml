@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">Quiz In My App</string>
+
+    <!--Welcome message-->
+    <string name="welcome">Welcome to Spercle App Trivia.
+        \nMy name is Millie Dean and I am your host.
+        \nThere are 10 category questions, a mystery round and a final question.
+        \nLet\'s see how you do!
+    </string>
+
+    <!--for the hint in the name field-->
+    <string name="name">Name</string>
+
+    <!--Question 1-->
+    <string name="q1">Question 1: Lakes</string>
+    <string name="q1q">What is the largest freshwater lake by area in the world? </string>
+    <string name="q1c1">Lake Victoria</string>
+    <string name="q1c2">Lake Huron</string>
+    <string name="q1c3">Lake Superior</string>
+    <string name="q1c4">Lake Bikal</string>
+
+    <!--Question 2-->
+    <string name="q2">Question 2: Mammals</string>
+    <string name="q2q">Which of the below characteristics are displayed by Mammals?</string>
+    <string name="q2c1">Large, 4-chambered heart</string>
+    <string name="q2c2">Warm-blooded</string>
+    <string name="q2c3">Lay eggs</string>
+    <string name="q2c4">Have hair</string>
+
+    <!--Question 3-->
+    <string name="q3">Question 3: Actors</string>
+    <string name="q3q">The actor pictured below starred in which HBO show?</string>
+    <string name="q3c1">True Blood</string>
+    <string name="q3c2">Deadwood</string>
+    <string name="q3c3">Game of Thrones</string>
+    <string name="q3c4">Silicon Valley</string>
+
+    <!--Question 4-->
+    <string name="q4">Question 4: The Beatles</string>
+    <string name="q4q">Fill in the blank: The _____ Album </string>
+    <string name="q4a">WHITE</string>
+
+    <!--Question 5-->
+    <string name="q5">Question 5: Musicians</string>
+    <string name="q5q">Rapper known for \'Gangsta\'s Paradise\'</string>
+    <string name="q5a">COOLIO</string>
+
+    <!--Question 6-->
+    <string name="q6">Question 6: Sports</string>
+    <string name="q6q">In which decade does Billie Jean King beat Bobby Riggs in the
+        \'Battle of the Sexes\', still the most watched tennis match of
+        all time?</string>
+    <string name="q6c1">1950\'s</string>
+    <string name="q6c2">1960\'s</string>
+    <string name="q6c3">1970\'s</string>
+    <string name="q6c4">1980\'s</string>
+
+    <!--Question 7-->
+    <string name="q7">Question 7: Authors</string>
+    <string name="q7q">What is the full name of the author who created
+        the character of Sherlock Holmes?</string>
+    <string name="q7a">ARTHUR CONAN DOYLE</string>
+
+    <!--Question 8-->
+    <string name="q8">Question 8: Capitals</string>
+    <string name="q8q">What is the capital of Kenya?</string>
+    <string name="q8c1">Nairobi</string>
+    <string name="q8c2">Accra</string>
+    <string name="q8c3">Freetown</string>
+    <string name="q8c4">Praetoria</string>
+
+    <!--Question 9-->
+    <string name="q9">Question 9: Actresses</string>
+    <string name="q9q">Name the actress pictured below who has appeared in
+    \'A League of their Own\' and \'Orange is the New Black\'</string>
+    <string name="q9a">LORI PETTY</string>
+
+    <!--Question 10-->
+    <string name="q10">Question 10: Music</string>
+    <string name="q10q">Who wrote the 1985 hit \'Summer of \'69\'</string>
+    <string name="q10a">BRYAN ADAMS</string>
+
+<!--Mystery Round-->
+    <string name="mr">Mystery Round: Scrambled Seas</string>
+    <string name="mrText">Unscramble the words beginning with C, given the category</string>
+    <string name="mr1q">Chemical Element: CALOTB</string>
+    <string name="mr1a">COBALT</string>
+    <string name="mr2q">TV Show: SIPHC</string>
+    <string name="mr2a">CHIPS</string>
+    <string name="mr3q">Broadway Musical: HAGOCCI</string>
+    <string name="mr3a">CHICAGO</string>
+    <string name="mr4q">Sports Team: ICHSEF</string>
+    <string name="mr4a">CHIEFS</string>
+
+    <!--Final Question-->
+    <string name="fqHeader">Final Question</string>
+    <string name="fqCategory">Category: Comedy</string>
+    <string name="fqInst">Select your Final Question wager, which can be anywhere
+    from 0 to 10 points.</string>
+    <string name="max">Maximum wager is 10 points</string>
+    <string name="min">Minimum wager is 0 points</string>
+    <string name="submitWager">Submit Wager and Show Final Question</string>
+    <string name="finalQuestion">In \'Monty Python and the Holy Grail\', Graham Chapman plays Arthur,
+    King of the Britons. Four of his Knights appear in the film as well. Name two of the other
+    Monty Python regulars who portray them.</string>
+    <string name="fqa1hint">Answer 1</string>
+    <string name="fqa2hint">Answer 2</string>
+    <string name="fqRightAnswer1">ERIC IDLE</string>
+    <string name="fqRightAnswer2">JOHN CLEESE</string>
+    <string name="fqRightAnswer3">TERRY JONES</string>
+    <string name="fqRightAnswer4">MICHAEL PALIN</string>
+
+    <!--String for hint text for answers-->
+    <string name="answer">Answer</string>
+<!-- Strings for Submit, Score and Reset buttons and text view-->
+    <string name="submit">Submit</string>
+    <string name="score">Score: </string>
+    <string name="reset">Play Again?</string>
+
+</resources>
