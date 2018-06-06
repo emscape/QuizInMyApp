@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textview_height">40dp</dimen>
+    <dimen name="textview_width">150dp</dimen>
+    <dimen name="head_size">20sp</dimen>
+    <dimen name="head_two">18sp</dimen>
+    <dimen name="font_size">16sp</dimen>
+    <dimen name="margin">20dp</dimen>
+    <dimen name="pad">16dp</dimen>
+    <dimen name="indent">28dp</dimen>
+    <dimen name="btw_cat_ques">4dp</dimen>
+    <dimen name="btw_quest">16dp</dimen>
+    <dimen name="math_buttons">48dp</dimen>
+</resources>
